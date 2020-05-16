@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kalaitest/static/css/main.093df822.chunk.css",
+    "main.js": "/kalaitest/static/js/main.af38e5bd.chunk.js",
+    "main.js.map": "/kalaitest/static/js/main.af38e5bd.chunk.js.map",
+    "runtime-main.js": "/kalaitest/static/js/runtime-main.4f86927a.js",
+    "runtime-main.js.map": "/kalaitest/static/js/runtime-main.4f86927a.js.map",
+    "static/js/2.2fba1178.chunk.js": "/kalaitest/static/js/2.2fba1178.chunk.js",
+    "static/js/2.2fba1178.chunk.js.map": "/kalaitest/static/js/2.2fba1178.chunk.js.map",
+    "index.html": "/kalaitest/index.html",
+    "precache-manifest.4cd483ce7b46a2ec28c6e2b94724d694.js": "/kalaitest/precache-manifest.4cd483ce7b46a2ec28c6e2b94724d694.js",
+    "service-worker.js": "/kalaitest/service-worker.js",
+    "static/css/main.093df822.chunk.css.map": "/kalaitest/static/css/main.093df822.chunk.css.map",
+    "static/js/2.2fba1178.chunk.js.LICENSE.txt": "/kalaitest/static/js/2.2fba1178.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/kalaitest/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f86927a.js",
+    "static/js/2.2fba1178.chunk.js",
+    "static/css/main.093df822.chunk.css",
+    "static/js/main.af38e5bd.chunk.js"
+  ]
+}
